@@ -100,7 +100,7 @@ theme_config:
   copyright:
     since: 2016
     name: John Doe
-    url: https://www.example.org/john-doe
+    url: https://www.shaanshaikh.me
   menu:
     Home: /
     About: /about
