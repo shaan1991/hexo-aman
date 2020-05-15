@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = themes/brewski
+  url = https://github.com/tiaanduplessis/hexo-theme-brewski
